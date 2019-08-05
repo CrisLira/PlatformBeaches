@@ -1,2 +1,2 @@
 # PlatformBeaches
-Tools to study platform beaches
+Python Tools to study platform beaches
